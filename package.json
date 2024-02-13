@@ -1,0 +1,15 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "This repository is a collection of my code snippets, written by myself, and collected around the web.",
+  "main": "clickStreamObject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.17"
+  }
+}

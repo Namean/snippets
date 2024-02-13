@@ -14,14 +14,14 @@ interface myObject extends Object {
   isSpecialCharacter: boolean;
 }
 
-function greet(person: { name: string; age: number }) {
-  return "Hello " + person.name;
-}
+// function greet(person: { name: string; age: number }) {
+//   return "Hello " + person.name;
+// }
 
-interface Person {
-  name: string;
-  age: number;
-}
+// interface Person {
+//   name: string;
+//   age: number;
+// }
 
 export function removeSpecialCharacters(input: string): any {
   let inputArray = input.split("");
