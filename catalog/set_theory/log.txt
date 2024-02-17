@@ -1,0 +1,44 @@
+{1, 2, 3, 7, 10, 15}
+{1, 2, 3, 7, 10, 15}
+['001', '002'] ['003']
+Traceback (most recent call last):
+  File "/home/desmond/Documents/snippets/catalog/set_theory/union.py", line 37, in <module>
+    print(union(employees, new_hires))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/desmond/Documents/snippets/catalog/set_theory/union.py", line 7, in union
+    return setA | setB
+           ~~~~~^~~~~~
+TypeError: unsupported operand type(s) for |: 'list' and 'list'
+{1, 2, 3, 7, 10, 15}
+{1, 2, 3, 7, 10, 15}
+['001', '002'] ['003']
+Traceback (most recent call last):
+  File "/home/desmond/Documents/snippets/catalog/set_theory/union.py", line 37, in <module>
+    print(union(employees, new_hires))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/desmond/Documents/snippets/catalog/set_theory/union.py", line 7, in union
+    return setA | setB
+           ~~~~~^~~~~~
+TypeError: unsupported operand type(s) for |: 'list' and 'list'
+{1, 2, 3, 7, 10, 15}
+{1, 2, 3, 7, 10, 15}
+['001', '002'] ['003']
+Traceback (most recent call last):
+  File "/home/desmond/Documents/snippets/catalog/set_theory/union.py", line 37, in <module>
+    print(union(employees, new_hires))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/desmond/Documents/snippets/catalog/set_theory/union.py", line 7, in union
+    return setA | setB
+           ~~~~~^~~~~~
+TypeError: unsupported operand type(s) for |: 'list' and 'list'
+{1, 2, 3, 7, 10, 15}
+{1, 2, 3, 7, 10, 15}
+['001', '002'] ['003']
+Traceback (most recent call last):
+  File "/home/desmond/Documents/snippets/catalog/set_theory/union.py", line 37, in <module>
+    print(union(employees, new_hires))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/desmond/Documents/snippets/catalog/set_theory/union.py", line 7, in union
+    return setA | setB
+           ~~~~~^~~~~~
+TypeError: unsupported operand type(s) for |: 'list' and 'list'
